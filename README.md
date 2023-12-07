@@ -11,3 +11,8 @@ menghapus kontak, serta melihat daftar kontak.
 # Setup Untuk Program
 - C++ Compiler
 - Text-editor/IDE
+
+# Instalasi Program
+Unzip file Kelompok10_Kontak, buka file
+yang didalam file zip tadi di text-editor atau IDE Anda,
+setelah itu Anda dapat mengcompile file dengan format .cpp.
